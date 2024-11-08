@@ -1,4 +1,4 @@
-# Empirical Rule Chebyshev Theorem Proof
+# Empirical Rule & Chebyshev's Theorem Proof
 
 
 ## Overview & Control Variable
