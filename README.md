@@ -1,4 +1,4 @@
-# Chebyshev-s-Theorem-Proof
+# Chebyshev-Theorem-Proof
 
 
 ## Overview & Control Variable
